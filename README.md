@@ -1,24 +1,9 @@
-# README
+# You can find how to setup js-packer-rails gem with Rails [here](https://github.com/jcieslar/js_paker_rails_example/pull/1)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+What is included in this Pull Request:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* use gem js-packer-rails
+* only one JS bundle file
+* base webpack setup
+* base babel setup
+* base react app setup
